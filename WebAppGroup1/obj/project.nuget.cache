@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1za3pR9UQ9VkxS6KTQTBSE0wK5oSp4GyFlIENZBfa5QdnoF22uqgVwjG/UziITtPMEOaSSrzwkvlXJCnBIKbg==",
+  "dgSpecHash": "czRyT5AJDrFI4cVfnUqu+DaFGj0k9+gdf2MgH/sv237j5oM92Gkna/OxsWTpt1JRyQjPyDrkv3EMT01sfyzp2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed\\OneDrive\\Documents\\Sparta Global\\Sparta_MVC_TraineeTrackerAPI\\WebAppGroup1\\WebAppGroup1.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed\\OneDrive\\Documents\\Sparta Global\\MVCTrackerApp\\WebAppGroup1\\WebAppGroup1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ahmed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
