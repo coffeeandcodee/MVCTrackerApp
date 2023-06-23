@@ -21,9 +21,10 @@ ASP.NET MVC based app used for managing and tracking trainee information. Projec
 Log in using the seeded data found in Data/SeedData.cs. 
 For example, you can log in using 
 Email: AIdris@spartaglobal.com
-Password: Password1!
 
-All users have the same password of Password1!.
+Password: Password1!
+(All users have the same password of Password1!)
+
 Then Navigate to the Trainee Tracker tab. Here you can create new items, check the details of existing items, edit these details or delete. 
 Bear in mind the trainer user ("PBellaby@spartaglobal.com") has enhanced permissions. 
 
