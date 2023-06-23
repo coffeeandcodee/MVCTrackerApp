@@ -1,6 +1,7 @@
 # MVCTrackerApp
 ASP.NET MVC based app used for managing and tracking trainee information.Project aims to allow trainers to manage their trainees and trainees to update their progress in a user friendly manner. Trainees can log their weekly progress to be shared with their trainers and track their own development. The App utilises a mock tested controller and a service layer. Collaborative project, Credit also goes to (name - github):
 
+- Daniel Manu - DanielManuM
 - Danyal Saleh - danymcdan0
 - Matthew Handley - MHandley10
 - Noreen Ali - NoreenAli
@@ -15,4 +16,7 @@ ASP.NET MVC based app used for managing and tracking trainee information.Project
 6. add-migration (then add message of choice when prompted)
 7. update-database
 8. Run Program preferably using IIS Express
+
+# How To Use
+
 
