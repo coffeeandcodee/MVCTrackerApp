@@ -26,6 +26,7 @@ Password: Password1!
 (All users have the same password of Password1!)
 
 Then Navigate to the Trainee Tracker tab. Here you can create new items, check the details of existing items, edit these details or delete. 
-Bear in mind the trainer user ("PBellaby@spartaglobal.com") has enhanced permissions. 
+
+Note that the trainer user ("PBellaby@spartaglobal.com") has enhanced permissions. 
 
 
